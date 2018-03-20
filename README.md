@@ -1,6 +1,14 @@
 # layout
 
-> A Vue.js project
+> This is a simple Vue layout with a Bootstrap-Vue NavBar and a custom SideBar
+
+## Dependencies
+
+- bootstrap
+
+- bootstrap-vue
+
+- jquery
 
 ## Build Setup
 
