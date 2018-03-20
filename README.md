@@ -2,6 +2,9 @@
 
 > This is a simple Vue layout with a Bootstrap-Vue NavBar and a custom SideBar
 
+## Preview
+![demo picture](./picture.png)
+
 ## Dependencies
 
 - bootstrap
